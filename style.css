@@ -276,7 +276,7 @@ img{
 }
 @keyframes animate{
     0%{
-        content: 'A self learner';
+        content: 'A self learning';
     }
     50%{
         content: 'Web developer,';
